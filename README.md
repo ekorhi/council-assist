@@ -60,6 +60,8 @@ Work IQ is the core intelligence layer — not a toggle, but the architectural f
 
 ## Knowledge Base
 
+![Council Assist Architecture](docs/KnowledgeBase.png)
+
 14 synthetic policy documents across 5 service areas, created for demonstration purposes using fictional **Westbridge Council** as the scenario organisation.
 
 | Service Area | Documents |
