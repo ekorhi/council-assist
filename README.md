@@ -11,7 +11,7 @@
 
 ## 🎬 Demo Video
 
-**[▶ Watch Council Assist in Action](YOUR_YOUTUBE_LINK_HERE)**
+> **[▶ Watch Council Assist in Action](https://youtu.be/7SDfDnO9gNU)**
 
 ---
 
