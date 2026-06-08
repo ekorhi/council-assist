@@ -1,5 +1,7 @@
 # HHSRS Escalation Flow
 
+![Council Assist Architecture](docs/hhsrs-escalation-flow.png)
+
 This Power Automate agent flow is triggered by Council Assist when HHSRS Category 1 hazard criteria are detected in an officer's conversation.
 
 ---
