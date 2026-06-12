@@ -3,10 +3,10 @@
 
 **Microsoft Agents League Hackathon 2026 | Enterprise Agents Track**
 
-[![Track](https://img.shields.io/badge/Track-Enterprise%20Agents-purple)]()
-[![IQ](https://img.shields.io/badge/Microsoft%20IQ-Work%20IQ-blue)]()
-[![Built with](https://img.shields.io/badge/Built%20with-Copilot%20Studio-orange)]()
-
+![A2A Service Principal](https://img.shields.io/badge/A2A-Service%20Principal-0078D4?style=for-the-badge&logo=microsoftentra&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI-Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SharePoint WorkIQ](https://img.shields.io/badge/SharePoint-WorkIQ-107C41?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+  
 ---
 
 ## 🎬 Demo Video
